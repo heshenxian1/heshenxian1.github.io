@@ -1,0 +1,25 @@
+﻿/* CSS Document */
+
+#mainbody{width:961px;margin:0 auto;background-color:#FFF;position:relative;padding-bottom:6px;}
+
+#maindown{width:961px;height:258px;}
+
+#maindown .left{width:199px;float:left;margin-left:10px;}
+#maindown .middle{width:344px;float:left;margin-left:29px;}
+#maindown .right{width:344px;float:left;margin-left:24px;}
+
+
+#maindown dt{font:14px Arial,Helvetica,Sans-serif;margin:4px 0px 0px 2px;text-align:left;height:34px;line-height:33px;color:#6a6a6a;border-bottom:1px solid #42a1e1;position:relative;}
+#maindown dt a{color:#6a6a6a}
+#maindown dt a:hover{color:#42a1e1}
+
+#maindown dt img{margin-right:5px;vertical-align:middle;_padding-top:4px;}
+.enter{position:absolute;top:7px;right:0px;}
+
+#maindown dd{font-size:12px;}
+#maindown .left dd{line-height:24px;padding:22px 0px 0px 8px;}
+
+
+#maindown li{height:69px;border-bottom:1px dotted #5A91C9;}
+.pe_u_thumb{float:left;border:1px solid #42a1e1;margin:9px 7px;}
+.pe_u_thumb_title{font-size: 12px; height: 52px; line-height: 18px; padding-top:14px; overflow: hidden; width:70%;}
